@@ -20,5 +20,5 @@ A beginner-friendly guide to help you pass Excel assessment tests often used in 
 ---
 
 ⭐ Star this repo if you find it helpful  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-ibrahim-bepari/)
 
